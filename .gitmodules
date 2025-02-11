@@ -1,0 +1,4 @@
+[submodule "IIShara.github.io"]
+	path = IIShara.github.io
+	url = git@github.com:IIShara/IIShara.github.io.git
+	branch = main
