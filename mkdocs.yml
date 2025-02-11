@@ -11,5 +11,5 @@ theme:
 
 nav:
   - About: index.md
-  - Docs: Readme.md
+  - Docs: Markdown.md
 
