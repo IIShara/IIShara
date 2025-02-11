@@ -1,7 +1,7 @@
-site_name: My Docs
+site_name: Личная документация
 site_url: https://IIShara.github.io
 site_author: Ilgiz Sharafeev
-site_description: a short description of your website
+site_description: Сборка шпаргалок и заметок
 
 theme:
   name: readthedocs
@@ -10,6 +10,7 @@ theme:
     - yaml
 
 nav:
-  - About: index.md
-  - Docs: Markdown.md
+  - Главная: index.md
+  - Шпаргалки:
+    - Синтаксис Markdown: Markdown.md
 
