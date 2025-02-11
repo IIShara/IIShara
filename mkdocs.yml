@@ -1,0 +1,15 @@
+site_name: My Docs
+site_url: https://IIShara.github.io
+site_author: Ilgiz Sharafeev
+site_description: a short description of your website
+
+theme:
+  name: readthedocs
+  highlightjs: true
+  hljs_languages:
+    - yaml
+
+nav:
+  - About: index.md
+  - Docs: Readme.md
+
