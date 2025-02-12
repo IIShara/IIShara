@@ -14,7 +14,9 @@ nav:
   - Заметки:
     - Синтаксис Markdown: Markdown.md
     - Основные команды Git: Git.md
+
   - Инструкции:
     - Keycloak: Keycloak.md
     - Prometheus: Prometheus.md
+    - Ansible: Ansible.md
 
