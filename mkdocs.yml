@@ -11,6 +11,7 @@ theme:
 
 nav:
   - Главная: index.md
-  - Шпаргалки:
+  - Заметки:
     - Синтаксис Markdown: Markdown.md
+    - Основные команды Git: Git.md
 
