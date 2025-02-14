@@ -89,7 +89,7 @@ test_servers:
 
 ** *обратите внимание, что мы также добавили переменную ansible_python_interpreter с указанием пути для запуска python.*
 
-## Настройка ansible
+### Настройка ansible
 Открываем конфигурационный файл ansible:
 ```shell
 vi /etc/ansible/ansible.cfg
@@ -115,7 +115,7 @@ interpreter_python = auto_silent
 ```
 \* *данная опция указывает, чтобы ansible автоматически искал python на целевом хосте без показа предупреждений.*
 
-## Тестовый запуск
+### Тестовый запуск
 Теперь выполним проверку доступности добавленных серверов:
 ```shell
 ansible -m ping test_servers -u root -kK

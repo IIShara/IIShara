@@ -8,6 +8,7 @@ theme:
   highlightjs: true
   hljs_languages:
     - yaml
+    - shell
 
 nav:
   - Главная: index.md
@@ -20,3 +21,6 @@ nav:
     - Prometheus: Prometheus.md
     - Ansible: Ansible.md
 
+  - Linux:
+    - Мониторинг:
+      - Top: Top.md
