@@ -25,3 +25,5 @@ nav:
     - Мониторинг:
       - Top: Top.md
       - Vmstat: vmstat.md
+    - Сборка пакетов:
+      - Пересборка RPM пакета NGINX: RPM rebild.md
