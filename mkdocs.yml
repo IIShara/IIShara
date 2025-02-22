@@ -20,6 +20,7 @@ nav:
     - Keycloak: Keycloak.md
     - Prometheus: Prometheus.md
     - Ansible: Ansible.md
+    - GitLab: GitLab.md
 
   - Linux:
     - Мониторинг:
