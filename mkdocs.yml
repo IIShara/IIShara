@@ -21,6 +21,8 @@ nav:
     - Prometheus: Prometheus.md
     - Ansible: Ansible.md
     - GitLab: GitLab.md
+    - Kubernetes: K8s.md
+    - Postgres + Patroni + etcd: postgres_etcd_patroni.md
 
   - Linux:
     - Мониторинг:
